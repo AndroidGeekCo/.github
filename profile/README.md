@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://www.youtube.com/@AndroidGeekCo" target="_blank"><img alt="Youtube-Channel-AndroidGeek.jpg" src="EasyPermissions-lib-cover.jpg" width="60%"></a>
+<a href="https://www.youtube.com/@AndroidGeekCo" target="_blank"><img alt="/Youtube-Channel-AndroidGeek.jpg" src="EasyPermissions-lib-cover.jpg" width="60%"></a>
 
 <!--
 
