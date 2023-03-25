@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://www.youtube.com/@AndroidGeekCo" target="_blank"><img alt="Youtube Channel AndroidGeek" src="Youtube-Channel-AndroidGeek.jpg" width="60%"></a>
+<a href="https://www.youtube.com/@AndroidGeekCo" target="_blank"><img alt="Youtube Channel AndroidGeek" src="https://github.com/AndroidGeekCo/.github/blob/main/profile/Youtube-Channel-AndroidGeek.jpg" width="60%"></a>
 
 <!--
 
